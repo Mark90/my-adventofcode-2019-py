@@ -11,11 +11,11 @@ YEAR = 2019
 
 solution_py = """\
 def part1(lines):
-    raise NotImplementedError
+    pass
 
 
 def part2(lines):
-    raise NotImplementedError
+    pass
 
 """
 
